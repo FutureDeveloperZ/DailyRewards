@@ -1,1 +1,29 @@
-
+---
+### day number
+1:
+  ## type of prize, while only things are supported
+  type: item
+  ## idi the subject
+  id: 260
+  ## item damage
+  meta: 0
+  ##quantity
+  count: 1
+  ## custom item name
+  custom_name: DailyReward
+  ## enchantment, optional item
+  enchant:
+    ## idi chara
+    ench_id: 1
+    ## level char
+    ench_level: 1
+2:
+  type: item
+  id: 267
+  meta: 0
+  count: 1
+  custom_name: DailyReward
+  enchant:
+    ench_id: 2
+    ench_level: 1
+...

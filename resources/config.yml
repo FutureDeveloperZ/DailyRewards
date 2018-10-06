@@ -1,0 +1,5 @@
+---
+first_join: "[DailyReward] Hello, you are the first day on the server."
+##{player} replaced by player name, {count} for the number of days
+daily_join: "[DailyReward] Hello, you play on the server already {count} day in a row."
+...
